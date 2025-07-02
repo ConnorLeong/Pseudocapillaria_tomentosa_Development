@@ -1,4 +1,4 @@
-# Pseudocapillaria_tomentosa_Development_metadata
+# Pseudocapillaria_tomentosa_Development_in_Zebrafish
 This repository contains the metadata sets from the manuscript titled Pseudocapillaria tomentosa Infections in Laboratory Larval and Adult Zebrafish (Danio rerio): Development and Advances in an In Vivo Anthelmintic Drug Discovery Model.
 
 # age.metadata.xlsx
